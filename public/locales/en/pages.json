@@ -1,0 +1,54 @@
+{
+  "forms": {
+    "audioSampleEdit": {
+      "accept": "Accept",
+      "annotationOngoing": "Awaiting operator annotations...",
+      "annotationSkipped": "Annotation has been skipped",
+      "reject": "Reject",
+      "skip": "Skip",
+      "utteranceEnd": "Utterance end",
+      "utteranceStart": "Utterance start",
+      "utteranceTranscript": "Utterance transcript",
+      "wakeEnd": "Wake end",
+      "wakeStart": "Wake start"
+    },
+    "projectAddEdit": {
+      "create": "Create new project",
+      "dueDate": "Due date",
+      "modify": "Modify project",
+      "provider": "Audio samples provider",
+      "title": "Title"
+    }
+  },
+  "home": {
+    "logInAs": "Log in as"
+  },
+  "notFound": {
+    "desc": "There are no results for that page.",
+    "title": "Sorry"
+  },
+  "project": {
+    "audioSamples": {
+      "reviewedAt": "Reviewed at",
+      "skipped": "Skipped",
+      "status": "Status",
+      "submittedAt": "Submitted at",
+      "title": "Title"
+    },
+    "confirmStatusChange": "You are about to change the status of your project. This action is irreversible.",
+    "statusAction": {
+      "completed": "Set project as completed",
+      "ongoing": "Make project public",
+      "review": "Send project for review"
+    },
+    "title_one": "{{count}} Audio sample",
+    "title_other": "{{count}} Audio samples",
+    "uploadSamples": "Upload samples"
+  },
+  "projects": {
+    "createNew": "Create new project",
+    "noProjectsYet": "No projects yet",
+    "title_one": "{{count}} Project",
+    "title_other": "{{count}} Projects"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "admin": "Admin",
+  "audioSampleStatus": {
+    "accepted": "Accepted",
+    "ongoing": "On going",
+    "rejected": "Rejected",
+    "review": "In-review"
+  },
+  "createdAt": "Created",
+  "errors": {
+    "400": "Bad request",
+    "404": "Not found",
+    "500": "Internal error"
+  },
+  "form": {
+    "errors": {
+      "invalid": "Value is invalid",
+      "max": "Value should be below {{val}}",
+      "min": "Value should be above {{val}}",
+      "moreThan": "Value should be above {{val}}",
+      "required": "This field is required"
+    },
+    "submit": "Submit"
+  },
+  "operator": "Operator",
+  "progress": "Progress",
+  "projectStatus": {
+    "completed": "Completed",
+    "draft": "Draft",
+    "ongoing": "On going",
+    "review": "In-review"
+  },
+  "updatedAt": "Last updated"
+}

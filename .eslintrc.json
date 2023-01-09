@@ -1,0 +1,27 @@
+{
+  "extends": [
+    "airbnb",
+    "next/core-web-vitals"
+  ],
+  "rules": {
+    "import/extensions": 0,
+    "no-underscore-dangle": 0,
+    "jsx-a11y/anchor-is-valid": 0,
+    "react/jsx-props-no-spreading": 0,
+    "react/require-default-props": 0,
+    "object-curly-newline": 0,
+    "import/prefer-default-export": 0,
+    "no-param-reassign": 0,
+    "no-unused-vars": ["error", { "argsIgnorePattern": "^_" }],
+    "arrow-parens": ["error", "as-needed", { "requireForBlockBody": true }],
+    "no-undef": 0,
+    "import/no-useless-path-segments": 0,
+    "react/jsx-filename-extension": [1,
+      {
+        "extensions": [
+          ".tsx"
+        ]
+      }
+    ]
+  }
+}

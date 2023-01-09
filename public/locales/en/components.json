@@ -1,0 +1,20 @@
+{
+  "player": {
+    "loading": "Loading",
+    "nowPlaying": "Now playing"
+  },
+  "project": {
+    "annotation": "Annotation",
+    "completedDate": "Completed date",
+    "dueDate": "Due date",
+    "numberOfSamples": "Number of samples",
+    "providedBy": "Audio samples by",
+    "rejections": "Rejected",
+    "review": "Review",
+    "skippedSamples": "Skipped samples"
+  },
+  "uploader": {
+    "dropPasteFiles": "Drop you audio samples here or %{browseFiles}",
+    "note": "Audio files should not exceed 200 Mo. Maximum 500."
+  }
+}
